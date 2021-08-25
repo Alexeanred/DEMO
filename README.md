@@ -1,2 +1,5 @@
 #Read me
-.hello
+I'm a robot 
+##info
+20yearsold
+student
